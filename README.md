@@ -45,7 +45,7 @@ A Streamlit-powered chatbot using [LangChain](https://www.langchain.com/) and [G
 
 1. **Clone the repository:**
     ```bash
-    git clone [https://github.com/Dhru3/MultiRouteChatbot.git](https://github.com/Dhru3/multi-route-chatbot-using-langchain-framework.git)
+    git clone https://github.com/Dhru3/multi-route-chatbot-using-langchain-framework.git
     cd MultiRouteChatbot
     ```
 
